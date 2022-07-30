@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/developerlight/static/css/main.bd57a855.css",
+    "main.js": "/developerlight/static/js/main.99a3dccb.js",
+    "index.html": "/developerlight/index.html",
+    "static/media/logo.svg": "/developerlight/static/media/logo.e2f2e711c31bbe8ba623489f343fed35.svg",
+    "main.bd57a855.css.map": "/developerlight/static/css/main.bd57a855.css.map",
+    "main.99a3dccb.js.map": "/developerlight/static/js/main.99a3dccb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd57a855.css",
+    "static/js/main.99a3dccb.js"
+  ]
+}
